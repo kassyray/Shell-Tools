@@ -1,4 +1,4 @@
-# Shell-Tools
+# Shell Scripting
 This repository contains shell scripts for a variety of tools that can be strung together in a pipeline. 
 
 concat_all
